@@ -1,2 +1,12 @@
-# Portafolio-M-todos-Num-ricos
-portafolio de evidencias de la materia de Métodos Numéricos 
+# Portafolio de Evidencias - Métodos Numéricos
+
+## Alumno
+Diego Esteban Aguilar García
+
+## Materia
+Métodos Numéricos
+
+## Contenido
+
+### Unidad 3
+- Actividad de clase 3 octubre 2026
