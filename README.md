@@ -10,3 +10,4 @@ Métodos Numéricos
 
 ### Unidad 3
 - Actividad de clase 3 octubre 2026
+- Tarea 01 Unidad 03
