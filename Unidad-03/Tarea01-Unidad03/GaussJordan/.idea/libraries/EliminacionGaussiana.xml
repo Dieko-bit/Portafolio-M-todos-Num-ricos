@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EliminacionGaussiana">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EliminacionGaussiana.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

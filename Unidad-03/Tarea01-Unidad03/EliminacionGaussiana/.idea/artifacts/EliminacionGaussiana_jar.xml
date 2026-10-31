@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EliminacionGaussiana:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EliminacionGaussiana_jar</output-path>
+    <root id="archive" name="EliminacionGaussiana.jar">
+      <element id="module-output" name="EliminacionGaussiana" />
+    </root>
+  </artifact>
+</component>
