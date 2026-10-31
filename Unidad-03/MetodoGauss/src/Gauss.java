@@ -1,5 +1,6 @@
 public class Gauss {
 
+    public static double[] resolver(double[][] A, double[] B) {
         int n = B.length;
 
         // Eliminación hacia adelante
